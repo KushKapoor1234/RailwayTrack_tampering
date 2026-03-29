@@ -431,11 +431,4 @@ Railway_tampering/
 ```
 
 
-
-## Demonstration
-
-Live demonstration available at: [Project Demo](https://shorturl.at/MmCfg)
-
----
-
 *Built for Hack4Delhi -- Ministry of Railways, Government of India*
